@@ -22,7 +22,7 @@ Aspiring engineering student with a strong foundation in design and robotics. Pa
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
   GPA: 3.3/4.0 | Graduation: Month, Year
 
-- **Miamo Dade College**  
+- **Miami Dade College**  
   *Associates in Arts*  
   Graduation: March, 2023
 
