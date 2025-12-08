@@ -3,7 +3,7 @@ layout: project
 title: Optimize wrench 
 description: Class project 
 technologies: [MATLAB, Fusion360]
-image: /assets/images/function-graph.png
+image: /assets/images/torque wrench.png
 ---
 
 
