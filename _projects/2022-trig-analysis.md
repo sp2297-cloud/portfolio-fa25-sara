@@ -1,8 +1,8 @@
 ---
 layout: project
-title: Analysis of Functions
-description: Class project with Graphs
-technologies: [MATLAB, python]
+title: Optimize wrench 
+description: Class project 
+technologies: [MATLAB, Fusion360]
 image: /assets/images/function-graph.png
 ---
 
