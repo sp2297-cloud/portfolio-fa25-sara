@@ -3,7 +3,7 @@ layout: project
 title: Mechatronics Robotics Competition
 description: Class project 
 technologies: Arduino, C, color detection, edge detection
-image:
+image: /assets/images/robot.png
 ---
 
 As part of our mechatronics class, we completed a robot for the purpose of collecting as many cubes as possible when competing against the other teams in the class.
